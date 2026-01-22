@@ -1,37 +1,49 @@
-<h1 align="center">Hi 👋, I'm lmk</h1>
-<h3 align="center">A computer science student, software engineer and AI passionate.</h3>
+<h1 align="center">Hi I'm lmk</h1>
+<h3 align="center">Computer Science Student | Web Developer</h3>
 
----
-
-### 🧰 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,nextjs,remix,vue,nuxt,astro,tailwind,graphql,supabase,firebase,nodejs,express,nestjs,mongodb,mysql,postgres,python,flask,fastapi,c,java,kotlin,docker,git,vscode" />
+  💻 I love building clean & useful web apps <br>
+  🚀 Always learning and improving
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 I’m currently working on **cool web projects**
-- 🌱 I’m currently learning **Software Architecture & AI**
-- 💬 Ask me about **Web Development & Programming**
-- 📫 How to reach me: **your@email.com**
+## 🧠 About Me
+- 🎓 Computer Science Student  
+- 🌐 Front-End Web Developer  
+- ⚙️ Interested in Backend & Cyber Security  
+- 📚 Learning every day  
 
 ---
 
-### 🌐 Connect with me
+## 🛠️ Tech Stack
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://twitter.com/USERNAME"><img src="https://skillicons.dev/icons?i=twitter"/></a>
-  <a href="https://github.com/USERNAME"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Current Focus
+- Improving JavaScript
+- Building real projects
+- Understanding backend basics
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark" />
 </p>
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/lmk-abdo
